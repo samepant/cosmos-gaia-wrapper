@@ -1,3 +1,5 @@
+### If you are looking for a cosmos multisig app [go here](https://github.com/samepant/cosmoshub-legacy-multisig).
+
 # Gaiacli node.js wrapper and demo app
 
 ## Reason for Being
